@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musa Morena Marcusso Manhães</h1>
-<h3 align="center">🚀 DevOps & Robotics Engineer | 📊 Data Engineer 📍 Germany</h3>
+<h3 align="center">🚀 DevOps & Robotics Engineer | 📊 Data Engineer | 📍 Germany</h3>
 
 ## Connect with me:
 
