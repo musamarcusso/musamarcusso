@@ -1,26 +1,25 @@
-<h1 align="center">Hi 👋, I'm Musa Morena Marcusso Manhães</h1>
-<h3 align="center">🚀 DevOps & Robotics Engineer | 📊 Data Engineer | 📍 Germany</h3>
+# Hi, I'm Musa Morena Marcusso Manhães 👋
 
-## Connect with me:
+Technical Lead at **Bosch Research**, working across two fronts:
+- 🤖 **Physical AI** — leading a project at the intersection of robotics and AI, plus the DevOps/infra that keeps it running.
+- 🧠 **Agentic AI** — leading development of GenAI-based agentic systems for enterprise workflow automation.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musamanhaes/)
+Background in robotics (ROS/Gazebo, simulation, underwater vehicles) from my PhD years, now applied to production AI/data systems in industry.
 
-## Languages & Tools
+Most of my current work lives on Bosch's internal GitHub Enterprise and isn't publicly shareable — but here's some of what shaped me:
 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Duckdb](https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+## 🌊 Legacy: UUV Simulator
+Core maintainer of [**uuv_simulator**](https://github.com/uuvsimulator/uuv_simulator) during my PhD — a Gazebo/ROS package suite for underwater robotics simulation.
+**888★ · 378 forks** · used across academic and industrial underwater robotics research.
+*(Archived — no longer actively maintained, but still referenced/used in the community.)*
+
+Related vehicle model packages I also worked on: [desistek_saga](https://github.com/uuvsimulator/desistek_saga) · [eca_a9](https://github.com/uuvsimulator/eca_a9) · [rexrov2](https://github.com/uuvsimulator/rexrov2)
+
+## 🛠️ Core stack
+**Languages:** Python · C++ · Bash
+**Data/AI:** Databricks · PySpark · Pandas · DuckDB
+**Infra/DevOps:** Docker · Ansible · AWS · GitHub Actions · Jenkins · Linux
+**Robotics:** ROS · Gazebo
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/musamanhaes/)
