@@ -6,8 +6,6 @@ Technical Lead at **Bosch Research**, working across two fronts:
 
 Background in robotics (ROS/Gazebo, simulation, underwater vehicles) from my PhD years, now applied to production AI/data systems in industry.
 
-Most of my current work lives on Bosch's internal GitHub Enterprise and isn't publicly shareable — but here's some of what shaped me:
-
 ## 🌊 Legacy: UUV Simulator
 Core maintainer of [**uuv_simulator**](https://github.com/uuvsimulator/uuv_simulator) during my PhD — a Gazebo/ROS package suite for underwater robotics simulation.
 **888★ · 378 forks** · used across academic and industrial underwater robotics research.
