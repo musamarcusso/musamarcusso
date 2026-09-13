@@ -4,7 +4,10 @@ Technical Lead at **Bosch Research**, working across two fronts:
 - 🤖 **Physical AI** — leading a project at the intersection of robotics and AI, plus the DevOps/infra that keeps it running.
 - 🧠 **Agentic AI** — leading development of GenAI-based agentic systems for enterprise workflow automation.
 
-Background in robotics (ROS/Gazebo, simulation, underwater vehicles) from my PhD years, now applied to production AI/data systems in industry.
+Background in robotics (ROS/Gazebo, simulation, underwater vehicles) from my PhD years, followed by several years as a **Robotics DevOps Engineer**, and more recently as a **Data Engineer** — now applied to production AI systems in industry.
+
+## 🎓 Certifications
+- [DeepLearning.AI Data Engineering Professional Certificate](https://coursera.org/verify/professional-cert/3CR685QFBMOE) (Coursera, 2025) — 4 courses covering source systems & ingestion, data storage & queries, and data modeling/transformation/serving on AWS.
 
 ## 🌊 Legacy: UUV Simulator
 Core maintainer of [**uuv_simulator**](https://github.com/uuvsimulator/uuv_simulator) during my PhD — a Gazebo/ROS package suite for underwater robotics simulation.
